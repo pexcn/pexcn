@@ -1,4 +1,4 @@
-# Hi, I'm Sing Yu Chan<img src="https://raw.githubusercontent.com/pexcn/pexcn/master/flag.png" width="56px" align="right">
+# Hi, I'm Sing Yu Chan<img src="https://raw.githubusercontent.com/pexcn/pexcn/master/flag.png" width="56px" align="right"><img src="https://raw.githubusercontent.com/pexcn/pexcn/master/a4.png" width="56px" align="right">
 
 ![Pacman](https://raw.githubusercontent.com/pexcn/pexcn/master/pacman.svg)
 
